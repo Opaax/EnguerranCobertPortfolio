@@ -1,6 +1,6 @@
 # Code Samples Repository
 
-Welcome to my **Code Samples Repository**! This repository contains selected code snippets and examples that I’ve worked on, extracted and modified to comply with confidentiality agreements and non-disclosure agreements (NDAs) related to private projects.  
+Welcome to my **Enguerran Cobert Portfolio Repository**! This repository contains selected code snippets and examples that I’ve worked on, extracted and modified to comply with confidentiality agreements and non-disclosure agreements (NDAs) related to private projects.  
 
 ## Purpose  
 The goal of this repository is to showcase my programming skills and techniques in a way that is both informative and respectful of the confidentiality obligations tied to my private work. The samples here:  

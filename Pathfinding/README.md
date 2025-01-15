@@ -7,4 +7,4 @@ Inspired by its chapter on graph algorithms and the A* algorithm, I developed a 
 This game features square tiles for unit placement and pathfinding, where I implemented a custom pathfinding system integrated into the engine's WorldSettings class. 
 This allows pathfinding to work across any level without the need for manual script additions.
 
-https://www.youtube.com/watch?v=v-Gn-4eGuCI&embeds_referring_euri=https%3A%2F%2Fenguerrancobert.myportfolio.com%2F
+[![Watch the video](https://img.youtube.com/vi/v-Gn-4eGuCI/maxresdefault.jpg)](https://youtu.be/v-Gn-4eGuCI)

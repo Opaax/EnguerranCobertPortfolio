@@ -15,3 +15,4 @@ For future improvements, I may need to create a fully custom system that allows 
 - Expand the system to support more complex spawn rules and interactions between cells.
 
 ![image](https://github.com/user-attachments/assets/f8a02a65-9bb8-4640-bac1-c0731c5c95c9)
+![image](https://github.com/user-attachments/assets/347212e3-93eb-4894-8c3b-91ef1ba886e4)
